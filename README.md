@@ -228,17 +228,35 @@ All platform data is securely stored and synchronized through Supabase, providin
 
 Cyber Black Squad Platform demonstrates the implementation of a modern startup workspace environment that combines project management, task tracking, collaboration, analytics, and user management into a single platform. The project showcases practical web development skills while providing a scalable foundation for future enterprise-level enhancements and integrations.
 
+```
+
 👨‍💻 Developed By
 
 Koyyada Rohith
 
 🔐 Cybersecurity Enthusiast | 🎓 B.Tech CSE | 🚀 Building Projects in Cybersecurity, Collaboration & Technology
 
+```
+
 📌 Version
 
 Version 1.0
+
+```
 
 ## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+```
+<div align="center">
+
+# 🛡️ Cyber Black Squad — Startup Workspace Platform
+
+### Startup Management & Collaboration Platform
+
+**Part of the Cyber Black World (CBW) Ecosystem**
+
+</div>
+
+```
